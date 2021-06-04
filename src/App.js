@@ -22,7 +22,7 @@ function App() {
           550,
           'fue en aquel balcón',
           550,
-          'en el que te tomé del cuello y mordí tus labios',
+          'en el que te tomé del cuello y mordí el labio',
           550,
           'fue en aquel otoño frío',
           550,
